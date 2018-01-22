@@ -1,3 +1,7 @@
+## Office Hours and Contact Information
+Professor Sarah Dahnke: sdahnke@cims.nyu.edu
+Office Hours: Wednesdays from 2-3pm in Room 308
+
 ## Expectations
 You are expected to come to all classes and arrive on time. 
 Please let me know in advance if you will be out for any reason. 
