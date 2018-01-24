@@ -14,16 +14,27 @@ note: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.
 
 ## Lecture Topics
 *Unix command line
+
 *HTML
+
 *CSS
+
 *Image editing
+
 *Design and wireframing
+
 *Responsive web design
+
 *Web frameworks
+
 *Web audio and video
+
 *Scripting with jQuery
+
 *Web forms
+
 *Scripting with JavaScript
+
 *Web hosting and domain names
 
 ## Textbook
