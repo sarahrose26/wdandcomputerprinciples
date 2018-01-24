@@ -5,6 +5,11 @@ For the common syllabus of all sections, see [this page.](https://cs.nyu.edu/cou
 
 Our class site will be located [here.](https://cs.nyu.edu/courses/spring18/CSCI-UA.0004-005/)
 
+## Exam Dates:
+Midterm: March 7
+Final: May 9 from 4-5:50pm
+note: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.edu/dynamic/courses/exams/)
+
 ## Lecture Topics
 *Unix command line
 *HTML
