@@ -7,7 +7,9 @@ Our class site will be located [here.](https://cs.nyu.edu/courses/spring18/CSCI-
 
 ## Exam Dates:
 Midterm: March 7
+
 Final: May 9 from 4-5:50pm
+
 note: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.edu/dynamic/courses/exams/)
 
 ## Lecture Topics
