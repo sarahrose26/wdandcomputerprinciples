@@ -1,7 +1,7 @@
 ## Syllabus
 There are two primary aspects to this course. The first is learning how to build websites and prepare the various elements that comprise them. The second is understanding concepts behind computers in general and the Web in particular.
 
-For the common syllabus of all sections, see [this page.](https://cs.nyu.edu/courses/fall17/CSCI-UA.0004-001/common-syllabus/)
+For the common syllabus of all sections, see [this page.](https://cs.nyu.edu/courses/spring18/CSCI-UA.0004-004/common_syllabus/)
 
 Our class site will be located [here.](https://cs.nyu.edu/courses/spring18/CSCI-UA.0004-005/)
 
