@@ -1,0 +1,6 @@
+Read: 
+
+-Chapter 4: Links
+-Chapter 5: Images
+-Chapter 10: Intro to CSS
+-Chapter 11: Color
