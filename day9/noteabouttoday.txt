@@ -1,0 +1,3 @@
+Today's lecture is an extension of the lecture from Day 8. I have copied the design links from Day 8 into this repository to make them easily accessible. 
+
+Please review Assignment #5: Wireframing on NYU Classes for information about what is expected. The lecture notes and design resources all guide through how to create thoughtful wireframes and site maps plus include some template resources for anyone who doesn't want to create from scratch.
