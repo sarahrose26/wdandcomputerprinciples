@@ -1,3 +1,6 @@
+## Schedule Update
+There will be no class on Monday, April 30. A makeup class, which will serve as an extra final exam review, will be held on May 7 from 12:30-1:45 in room 101. Class will also be held as usual on May 7 from 3:30-4:45. Students who have class conflicts but would like an extra final review can make an appointment to meet with me on May 7 at 4:45 in room 308.
+
 ## Office Hours and Contact Information
 Professor Sarah Dahnke: sdahnke@cims.nyu.edu
 Office Hours: Wednesdays from 2-3pm in Room 308
