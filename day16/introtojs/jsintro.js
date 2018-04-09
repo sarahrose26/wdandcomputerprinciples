@@ -1,158 +1,61 @@
-//define a variable
-var name = "Sarah"
+//this is a javascript comment
 
-//printing the variable to the console
-console.log(name)
+//define a variable that is an integer
+var num = 8.9
 
-//creating an alert
-alert("Hello World")
+var num2 = 10
 
-//defining an array
+//console.log(num + num2) 
+
+//define a variable that is a float
+
+var float1 = 23.3356
+
+var float2 = 10.0
+
+//console.log(num + float2);
+
+//console.log(float1 * float2)
+
+var num = 20
+
+//declare a variable that is a string
+
+var myname = 'Sarah'
+
+console.log(myname[3])
+
+var lastname = ' Dahnke'
+
+//console.log(myname + lastname)
+
+//console.log('myname')
+
+//console.log(3 + 5)
+//console.log("3" + "5")
+
+//define an array
+//an array is a list. Javascript lets us define an array with different data types
+//arrays have an index starting from 0
 var firstArray = ["bert", "ernie", "big bird", "snuffie"]
 
-//logging the first element on an array
-console.log(firstArray[0])
+//console.log(firstArray[0] , firstArray[1]);
 
 var secondArray = ["kermit", "miss piggy", "gonzo", "swedish chef"]
 
-console.log(secondArray)
+//console.log(secondArray);
 
-//creating a multidimensional array
+//create a multidimensional array
+
+//console.log(firstArray + secondArray)
+
 var thirdArray = [firstArray, secondArray]
 
-console.log(thirdArray[0][1])
+//console.log(thirdArray);
 
-var num = 5
 
-if (num<10){
-    alert("The variable is less than 10.")
-    
-}else if(num===5){
-    alert("The variable is 5")
-    
-}else{
-    alert("The variable is " + num)
-}
 
-function someName(numberOne, numberTwo){
-    return numberOne + numberTwo + 10;
-}
 
-alert(someName(3, 4))
 
 
-function alertName(name){
-    return alert(name);
-}
-
-alertName(12)
-
-
-//create two arrays
-//create one multi-dimensional array
-//access one element from one of your two arrays by using console.log
-
-//prints information to the console
-//console.log(nameofarray[])
-
-//js object 
-
-var car = {
-    make: 'Toyota',
-    model: 'Prius', 
-    color: 'grey'
-};
-
-console.log(car['make'])
-
-//this also returns the make of the car
-//console.log(car.make);
-
-
-
-
-if (5>10) {
-console.log("You'll never see this in the console because 5 is not greater than 10");
-}else{
-console.log("this one");
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//console.log(document.getElementById('username').value)
-//
-//var username = document.getElementById('username')
-//
-//var password = 1234
-//
-//if (username == password) {
-//    console.log("password is correct")
-//}
-
-
-
-
-
-
-
-
-
-
-//var myFriend = ["Jake", "John", "Samantha", "Billy"]
-//for(var i = 0; i<myFriend.length; i++){
-//    console.log(myFriend[i] + ' is my friend')
-//}
-
-//var x = 1
-//while(x < 10){
-//    console.log("On number" + x)
-//    x++;
-//}
-
-
-//var z = 3;
-//
-//function someF(){  
-//    var z = 20;  
-//console.log(z);
-//}
-//
-//someF()
-//console.log(z);
 
