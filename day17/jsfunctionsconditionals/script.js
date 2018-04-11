@@ -10,27 +10,27 @@
 
 
 
-var num = 5
-
-if (num < 10) {
-    alert("Your number is less than 10.")
-}else if (num === 5){
-    alert("Your number is 5.")
-}else{
-    alert("Your number is greater than 10.")
-}
+//var num = 5
+//
+//if (num < 10) {
+//    alert("Your number is less than 10.")
+//}else if (num === 5){
+//    alert("Your number is 5.")
+//}else{
+//    alert("Your number is greater than 10.")
+//}
 
 //conditionals can also compare strings
 
-var iceCream = ["strawberry", "coffee", "peanut butter", "milk"]
-    
-var cake = ["chocolate", "carrot", "red velvet", "cheesecake"]
-
-if (iceCream === cake){
-    alert("Ice cream and cake are the same thing!")
-}else{
-    alert("Ice cream and cake are very different.")
-}
+//var iceCream = ["strawberry", "coffee", "peanut butter", "milk"]
+//    
+//var cake = ["chocolate", "carrot", "red velvet", "cheesecake"]
+//
+//if (iceCream === cake){
+//    alert("Ice cream and cake are the same thing!")
+//}else{
+//    alert("Ice cream and cake are very different.")
+//}
     
 //comparison operators: 
 //if two things are equal ===
@@ -51,13 +51,13 @@ if (iceCream === cake){
 
 //parenthesis hold the arguments that will be passed through your function
 
-function alertName(name1){
-    return alert(name1)
-}
+//function alertName(name1){
+//    return alert(name1)
+//}
 
 //call the function
 
-alertName("Sarah!")
+//alertName("Sarah!")
 
 //functions can take in multiple arguments
 
@@ -66,7 +66,7 @@ function addNumber(numberOne, numberTwo){
 }
 
 //call the function
-console.log(addNumber(33, 34))
+//console.log(addNumber(33, 34))
 
 //math operations 
 // add: +
@@ -94,9 +94,12 @@ function foodDoor(doorName){
 }
 //
 ////call the function
-//
+
+
+//testing the pizza condition
 //foodDoor("pizza")
-foodDoor("tacos")
+//testing the tacos condition
+//foodDoor("tacos")
 
 //regular array
 
@@ -110,7 +113,7 @@ var cake = ["chocolate", "carrot", "red velvet", "cheesecake"]
 
 var desserts = [iceCream, cake]
 
-console.log(desserts)
+//console.log(desserts)
 
 
 
