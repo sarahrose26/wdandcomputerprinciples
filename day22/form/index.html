@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Web Form</title>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+      p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 0.9em;
+        line-height: 1.4em;
+      }
+
+      form {
+        width: 320px;
+        background-color: lightgray;
+        padding: 20px;
+        border-radius: 20px;
+        border: 1px solid gray;
+      }
+    </style>
+  </head>
+
+  <body>
+    <form method="post" action="https://formspree.io/your@email.com">
+      <p>First name <input type="text" name="first-name" required></p>
+
+      <p>Last name <input type="text" name="last-name" required></p>
+
+      <p>Email <input type="email" name="email" required></p>
+
+      <p>Message</p>
+      <textarea name="message" cols="40" rows="5" placeholder="Enter your message here."></textarea>
+
+      <p>What year are you?<br>
+        <input type="radio" name="year" value="freshman"> Freshman<br>
+        <input type="radio" name="year" value="sophomore"> Sophomore<br>
+        <input type="radio" name="year" value="junior"> Junior<br>
+        <input type="radio" name="year" value="senior"> Senior</p>
+
+        <p>What topics did you like this semester?<br>
+          <input type="checkbox" name="topics" value="unix"> Unix<br>
+          <input type="checkbox" name="topics" value="html"> HTML<br>
+          <input type="checkbox" name="topics" value="css"> CSS<br>
+          <input type="checkbox" name="topics" value="image-editing"> Image editing<br>
+          <input type="checkbox" name="topics" value="bootstrap"> Bootstrap<br>
+          <input type="checkbox" name="topics" value="javascript"> JavaScript<br>
+          <input type="checkbox" name="topics" value="jquery"> jQuery</p>
+
+        <p>Will you continue to make websites after the class is over?</p>
+        <select name="make-websites">
+          <option value="yes">Yes!</option>
+          <option value="no">No.</option>
+          <option value="maybe">Maybe . . . </option>
+        </select>
+
+        <p><input type="submit" value="Send"></p>
+    </form>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+
+    <script>
+      $('form').validate(); // jQuery form validation method
+    </script>
+  </body>
+</html>
