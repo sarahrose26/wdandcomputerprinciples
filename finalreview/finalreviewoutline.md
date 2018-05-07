@@ -2,7 +2,7 @@ REMINDER: Final Exam is Wednesday, May 9 from 4-5:50pm in our regular room: 101.
 
 The final will be 100 questions, multiple choice. The format is the same as the midterm.  
 
-The questions will address the topics we've covered in class up until now, both theoretical and technical. For part of the exam, you will be asked to look at HTML/CSS code and answer questions about it. 
+The questions will address the topics we've covered in class up until now, both theoretical and technical. For part of the exam, you will be asked to look at HTML/CSS/Javascript code and answer questions about it. 
 
 Exam questions are pulled from previous lectures, so please review lecture notes, your in-class notes, and the affiliated readings for each class. 
 
@@ -14,7 +14,6 @@ Computer Basics
 -e.g. difference between the Internet and the World Wide Web
 -know key dates, e.g. who and when the Internet was developed
 -Digital Media and Storage Size
--digital signals, 1s and 0s
 -bits and bytes
 -Moore's Law
 
